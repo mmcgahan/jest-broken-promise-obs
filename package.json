@@ -1,0 +1,11 @@
+{
+  "name": "jest-promise",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "16.0.1",
+    "rxjs": "5.0.0-beta.12"
+  }
+}
