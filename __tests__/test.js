@@ -3,7 +3,7 @@ describe('from "of"', () => {
 	it('normal success using "done"', (done) => {
 		Promise.resolve(1)
 			.then(x => {
-				expect(true).toBe(false);
+				expect(true).toBe(true);
 			})
 			.then(done);
 	});
