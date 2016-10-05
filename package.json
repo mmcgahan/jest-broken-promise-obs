@@ -5,7 +5,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "jest": "16.0.1",
-    "rxjs": "5.0.0-beta.12"
+    "jest": "16.0.1"
   }
 }
